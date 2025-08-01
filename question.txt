@@ -1,0 +1,12 @@
+// prime number under o(n)
+// even and odd place sum of digit
+// reverse a number 
+// armstrong number
+//stronge number / peterson number(factorial)
+// find the frequency of each digit (using array)
+
+homework II
+// eucliedian hcf
+// frequency of vowels
+// happy number
+//automorphic number
